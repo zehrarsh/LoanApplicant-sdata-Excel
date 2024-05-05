@@ -4,7 +4,7 @@
 ![Alt Text](FlagDocSummary.png)
 ![Alt Text](MaleClientsSummary.png)
 ![Alt Text](LoanApplicantsReport.png)
-![Alt Text](LoanApplicantsReport(2).png)
+![Alt Text](LoanApplicantsReport (2).png)
 
 ## Introduction
 You are working as Business Analyst in IJS Bank Limited. Currently your organization is working on Loan Applicant Clients for the current quarter. The Manager of the Branch asked you to analyze Loan Applicant’s data and to Present appropriate report on the shared data. The report should be demonstrated using Dashboard into MS Excel.
